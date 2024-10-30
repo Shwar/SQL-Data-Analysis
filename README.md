@@ -17,15 +17,15 @@ This project is an analysis of bike sales data, getting key insights. Using SQL,
      1. **Data Import**: Loaded CSV files into MySQL Workbench.
      2.**Data Cleaning**: Ensured consistency across columns by renaming and dropping unnecessary columns, managed missing values, and standardized data.
      3. **SQL Analysis**: Queries to extract insights on:
-        +     Sales volume per product category
-        +     Employee contributions
-        +     Top conpmanies
-        +  total gross amount for each sales orde
+        + Sales volume per product category
+        + Employee contributions
+        + Top conpmanies
+        +  Total gross amount for each sales order
 ## Insights
 
-    1.  **Top-Selling Products**: Products that has generated most gross income
-    2. **Employee Performance**:  Employees who have changed product details the most
-    3. **Order Trends**: Sales order items for maybe a specific product ID.
+    1. Top-Selling Products : Products that has generated most gross income
+    2. Employee Performance:  Employees who have changed product details the most
+    3. Order Trends: Sales order items for maybe a specific product ID.
 ## How to use
 1. **Clone the repository**
    = _git clone <repo url>_
